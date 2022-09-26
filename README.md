@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jose Sanchez
-- 👀 I’m interested in Blockchain Technology and IoT enabling technologies
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in IoT enabling technologies
+- 🌱 I’m currently doing research on Secure Infrastructure-less Wireless Networks
 - 📫 Reach me @ joseangelsanvil2207@gmail.com
 
 <!---
